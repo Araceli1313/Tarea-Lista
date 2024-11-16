@@ -1,0 +1,14 @@
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Listas\bin\Debug\net8.0\Tarea - Listas.exe
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Listas\bin\Debug\net8.0\Tarea - Listas.deps.json
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Listas\bin\Debug\net8.0\Tarea - Listas.runtimeconfig.json
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Listas\bin\Debug\net8.0\Tarea - Listas.dll
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Listas\bin\Debug\net8.0\Tarea - Listas.pdb
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Listas\obj\Debug\net8.0\Tarea - Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Listas\obj\Debug\net8.0\Tarea - Listas.AssemblyInfoInputs.cache
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Listas\obj\Debug\net8.0\Tarea - Listas.AssemblyInfo.cs
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Listas\obj\Debug\net8.0\Tarea - Listas.csproj.CoreCompileInputs.cache
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Listas\obj\Debug\net8.0\Tarea - Listas.dll
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Listas\obj\Debug\net8.0\refint\Tarea - Listas.dll
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Listas\obj\Debug\net8.0\Tarea - Listas.pdb
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Listas\obj\Debug\net8.0\Tarea - Listas.genruntimeconfig.cache
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Listas\obj\Debug\net8.0\ref\Tarea - Listas.dll
